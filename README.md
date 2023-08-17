@@ -14,6 +14,17 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores around
 
 ● Do sales figures vary between geographic regions?
 
+## Data
+The dataset is one file accessible within a SQL database referenced within the datasets folder.
+
+## Project Deliverables
+Ultimately, I delivered a revenue analysis of their customers and how revenue will impact the strategy rollout of a new streaming product.
+
+There are four separate project deliverables:
+1. Data dictionary of the dataset to provide all keys and types
+2. SQL queries and their given outputs divided by excel page
+3. Data visualizations of exported SQL queries into Tableau
+4. PowerPoint presentation of all information, data, and analysis including objectives, data visualizations, and recommendations.
 
 
 
