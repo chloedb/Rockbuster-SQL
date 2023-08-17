@@ -17,8 +17,8 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores around
 ## Project Documentation
 The initial project brief offered to me at the beginning of the project timeline. The brief offers the questions and objectives of the project for Rockbuster Stealth.
 
-## Data
-The dataset is one file accessible within a SQL database referenced within the datasets folder.
+## [Data](https://github.com/chloedb/Rockbuster-SQL/tree/main/Rockbuster_Datasets_deBeus)
+The dataset is one file accessible within a SQL database referenced within the [datasets folder](https://github.com/chloedb/Rockbuster-SQL/tree/main/Rockbuster_Datasets_deBeus).
 
 ## Project Deliverables
 Ultimately, I delivered a revenue analysis of their customers and how revenue will impact the strategy rollout of a new streaming product.
