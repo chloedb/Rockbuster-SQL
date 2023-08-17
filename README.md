@@ -14,13 +14,13 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores around
 
 ● Do sales figures vary between geographic regions?
 
-## Project Documentation
+## [Project Documentation](https://github.com/chloedb/Rockbuster-SQL/tree/main/Rockbuster_Project%20Documentation_deBeus)
 The initial project brief offered to me at the beginning of the project timeline. The brief offers the questions and objectives of the project for Rockbuster Stealth.
 
 ## [Data](https://github.com/chloedb/Rockbuster-SQL/tree/main/Rockbuster_Datasets_deBeus)
 The dataset is one file accessible within a SQL database referenced within the [datasets folder](https://github.com/chloedb/Rockbuster-SQL/tree/main/Rockbuster_Datasets_deBeus).
 
-## Project Deliverables
+## [Project Deliverables](https://github.com/chloedb/Rockbuster-SQL/tree/main/Rockbuster_Client%20Deliverable_deBeus)
 Ultimately, I delivered a revenue analysis of their customers and how revenue will impact the strategy rollout of a new streaming product.
 
 There are four separate project deliverables:
